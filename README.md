@@ -20,19 +20,21 @@ preeti('sf7df08"');
 
 #### Other fonts
 
-You also can use converters for PCS Nepali and Kantipur by providing a second parameter.
+You also can use converters for other fonts by providing a second parameter. Here is the list of all supported fonts.
 
 ```javascript
-preeti('sf7df08"', 'PCS Nepali');
+preeti('sf&df)*"', 'PCS Nepali');
 preeti('sf7df08"', 'Kantipur');
+preeti('sf&df)*"', 'Fontasy Himali TT');
+preeti('sf7df08"', 'Sagarmatha');
 ```
 
 ### Original Shell and JS code
 
-This project is based on code and regular expressions from the <a href="https://github.com/foss-np">FOSS Nepal</a> community
+This project is based on code and regular expressions from the [FOSS Nepal](https://github.com/foss-np) community
 
-- <a href="https://github.com/foss-np/2utf8">2utf8</a> a Bash command
-- <a href="https://github.com/sapradhan/nep-ttf2utf">nep-ttf2utf</a> a JS and Python3 port by sapradhan
+- [2utf8](https://github.com/foss-np/2utf8) a Bash command
+- [nep-ttf2utf](https://github.com/sapradhan/nep-ttf2utf) a JS and Python3 port by sapradhan
 
 ### License
 
