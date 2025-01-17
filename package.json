@@ -1,7 +1,7 @@
 {
   "name": "preeti",
-  "version": "1.0.3",
-  "description": "Convert Nepali Preeti ASCII font to Unicode",
+  "version": "1.1.0",
+  "description": "Convert text in Nepali ASCII fonts to Unicode",
   "main": "preeti.js",
   "scripts": {
     "test": "mocha"
@@ -22,7 +22,7 @@
     "url": "https://github.com/mapmeld/preeti/issues"
   },
   "devDependencies": {
-    "mocha": "^2.2.5"
+    "mocha": "^11.0.1"
   },
   "homepage": "https://github.com/mapmeld/preeti#readme",
   "publicKey": "public_key.asc"
